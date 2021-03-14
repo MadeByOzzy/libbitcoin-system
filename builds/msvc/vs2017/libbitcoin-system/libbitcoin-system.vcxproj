@@ -10,6 +10,7 @@
     <PlatformToolset>v141</PlatformToolset>
     <ProjectGuid>{39F60708-FF48-4C22-952D-43470866F684}</ProjectGuid>
     <ProjectName>libbitcoin-system</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="DebugDLL|Win32">

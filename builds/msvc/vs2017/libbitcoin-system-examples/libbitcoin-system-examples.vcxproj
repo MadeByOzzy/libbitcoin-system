@@ -11,6 +11,7 @@
     <PlatformToolset>v141</PlatformToolset>
     <ProjectGuid>{B726DF7D-6D1D-48FB-AC02-34EB45F9145E}</ProjectGuid>
     <ProjectName>libbitcoin-system-examples</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="DebugDEXE|Win32">
